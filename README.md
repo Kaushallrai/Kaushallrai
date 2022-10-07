@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushallrai&show_icons=true&count_private=true&include_all_commits=true&theme=swift)
 
@@ -9,9 +9,10 @@
 <br>
 <br>
 
-<p align="center">
+<p align="left">
 <a href="https://www.github.com/Kaushallrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/kaushall.rai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/kaushal-rai-b5084a21a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://discord.com/users/kaushall#3945" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
 </p>
