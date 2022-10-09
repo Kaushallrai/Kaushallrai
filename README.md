@@ -13,4 +13,4 @@
 
 <br>
 <br>
-You can contact me at [kaushallrai03@gmail.com](mailto:kaushallrai03@gmail.com)
+You can contact me at <a href="mailto:mailto:kaushallrai03@gmail.com">kaushallrai03@gmail.com</a>
