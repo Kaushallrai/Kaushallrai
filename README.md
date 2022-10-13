@@ -24,3 +24,5 @@
 <br>
 
 You can contact me at <a href="mailto:mailto:kaushallrai03@gmail.com">kaushallrai03@gmail.com</a>
+<br>
+<a href="https://www.buymeacoffee.com/kaushallrai"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
