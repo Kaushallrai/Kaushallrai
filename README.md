@@ -7,7 +7,6 @@
 </div>
 
 <br>
-<br>
 
 ### Skills
 
