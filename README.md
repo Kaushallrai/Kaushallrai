@@ -6,8 +6,6 @@
 
 </div>
 
-<br>
-
 ### Skills
 
 <p align="left">
@@ -22,4 +20,4 @@
 
 <br>
 
-You can contact me at <a href="mailto:mailto:kaushallrai03@gmail.com">kaushallrai03@gmail.com</a>
+You can contact me at : <a href="mailto:mailto:kaushallrai03@gmail.com">kaushallrai03@gmail.com</a>
