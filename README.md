@@ -16,6 +16,6 @@
 
 ### Socials
 
-<a href="https://www.linkedin.com/in/kaushal-rai-b5084a21a" target="_blank" rel="noreferrer"><img style=":hover{transform:scale(1.05);}" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20191777/kaushal-rai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/kaushal-rai-b5084a21a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20191777/kaushal-rai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 <h4>You can contact me at : <a href="mailto:mailto:kaushallrai03@gmail.com">kaushallrai03@gmail.com</a></h4>
